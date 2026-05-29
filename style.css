@@ -1,3 +1,8 @@
 .cabecalho{
-    background-color:brown
+    background-color:aqua;
+color:black;
+display: flex;
+justify-content: center;
+
 }
+    
